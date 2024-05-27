@@ -1,20 +1,37 @@
 {
     "StopName": [
     {
-        "stopnum" : "SP-01",
-        "stopnamechi" : "日落碼頭總站-1",
-        "stopnameeng" : "SUNSET PIER BUS TERMINUS-1",
-        "stoptype" : 1,
-        "rt1": ["70","W","B"],
-        "chidest1" : "羽田海灣",
-        "engdest1" : "HANEDA BAY",
-        "chivia1" : "經: 飛馬山, 貨櫃碼頭, 鳳凰山轉車站",
-        "engvia1" : "VIA: PEGASUS HILL, CONTAINER TERMINAL, FUNG WONG SHAN BBI",
-        "rt2": ["70A","W","B"],
-        "chidest2" : "羽田海灣",
-        "engdest2" : "HANEDA BAY",
-        "chivia2" : "經: 鳳凰山轉車站, 彩灣",
-        "engvia2" : "VIA: FUNG WONG SHAN BBI, CHOI WAN"
+        "stopnum" : "HTM-01",
+        "stopnamechi" : "恆域交通博物館-1",
+        "stopnameeng" : "HANWICK TRANSPORT MUSEUM-1",
+        "stoptype" : 0,
+        "rt1": ["53H","W","B"],
+        "chidest1" : "渡船角循環線",
+        "engdest1" : "FREEY POINT CIRCULAR ROUTE",
+        "chivia1" : "渡船角碼頭>渡船角廣場>恆域勞鐵站>渡船角碼頭",
+        "engvia1" : "FREEY POINT PIER>FREEY POINT PLAZA>TRR HAWICK STATION>FREEY POINT PIER"
+    },
+    {
+        "stopnum" : "HTM-02",
+        "stopnamechi" : "恆域交通博物館-2",
+        "stopnameeng" : "HANWICK TRANSPORT MUSEUM-2",
+        "stoptype" : 0,
+        "rt1": ["353","W","B"],
+        "chidest1" : "中環中心",
+        "engdest1" : "CENTRAL POINT",
+        "chivia1" : "經: 文華邨",
+        "engvia1" : "VIA: MAN WAN ESTATE"
+    },
+    {
+        "stopnum" : "CP-01",
+        "stopnamechi" : "中環中心",
+        "stopnameeng" : "CENTRAL POINT",
+        "stoptype" : 0,
+        "rt1": ["353","W","B"],
+        "chidest1" : "恆域交通博物館",
+        "engdest1" : "HANWICK TRANSPORT MUSEUM",
+        "chivia1" : "經: 文華邨",
+        "engvia1" : "VIA: MAN WAN ESTATE"
     },
     {
         "stopnum" : "SP-02",
