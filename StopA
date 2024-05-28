@@ -8,8 +8,8 @@
         "rt1": ["53H","W","B"],
         "chidest1" : "渡船角循環線",
         "engdest1" : "FREEY POINT CIRCULAR ROUTE",
-        "chivia1" : "渡船角碼頭>渡船角廣場>恆域勞鐵站>渡船角碼頭",
-        "engvia1" : "FREEY POINT PIER>FREEY POINT PLAZA>TRR HAWICK STATION>FREEY POINT PIER"
+        "chivia1" : "渡船角碼頭>渡船角廣場>恆域勞鐵站>交通博物館",
+        "engvia1" : "FREEY POINT PIER>FREEY POINT PLAZA>TRR HAWICK STATION>HANWICK TRANSPORT MUSEUM"
     },
     {
         "stopnum" : "HTM-02",
@@ -21,6 +21,17 @@
         "engdest1" : "CENTRAL POINT",
         "chivia1" : "經: 文華邨",
         "engvia1" : "VIA: MAN WAN ESTATE"
+    },
+    {
+        "stopnum" : "FPP-01",
+        "stopnamechi" : "恆域交通博物館",
+        "stopnameeng" : "HANWICK TRANSPORT MUSEUM",
+        "stoptype" : 0,
+        "rt1": ["53H","W","B"],
+        "chidest1" : "恆域交通博物館",
+        "engdest1" : "HANWICK TRANSPORT MUSEUM",
+        "chivia1" : "渡船角碼頭>渡船角廣場>恆域勞鐵站>交通博物館",
+        "engvia1" : "FREEY POINT PIER>FREEY POINT PLAZA>TRR HAWICK STATION>HANWICK TRANSPORT MUSEUM"
     },
     {
         "stopnum" : "CP-01",
