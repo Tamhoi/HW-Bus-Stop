@@ -66,6 +66,24 @@
         "chivia1" : "土窯灣>舊城區>凱琳>聖瑪利醫院>北都>土窯灣",
         "engvia1" : "TOU YIU WAN>OLD TOWN>HOI LAM>ST MARY HOSPITAL>LE METRO DU NORD>TOU YIU WAN"
     },
+    {
+        "stopnum" : "NL-01",
+        "stopnamechi" : "窯柏樓",
+        "stopnameeng" : "YIU PAK HOUSE",
+        "stoptype" : 2,
+        "rt1": ["60X","W","B"],
+        "rt2": ["66B","W","B"],
+        "rt3": ["66C","W","B"],
+        "rt4": ["","W","B"],
+        "rt5": ["","W","B"],
+        "rt6": ["","W","B"],
+        "rt7": ["","W","B"],
+        "rt8": ["","W","B"],
+        "rt9": ["","W","B"],
+        "rt10": ["","W","B"],
+        "rt11": ["","W","B"],
+        "rt12": ["","W","B"]
+    },
 
     {
         "stopnum" : "SP-02",
