@@ -160,12 +160,19 @@
         "stopnum" : "WF-05",
         "stopnamechi" : "舊城區碼頭",
         "stopnameeng" : "OLD TOWN FERRY",
-        "stoptype" : 0,
+        "stoptype" : 2,
         "rt1": ["60","W","B"],
-        "chidest1" : "渡船角碼頭",
-        "engdest1" : "FERRY POINT PIER",
-        "chivia1" : "經: 凱琳, 海澳, 中環, 翔宏",
-        "engvia1" : "VIA: HOI LAM, HOI O, CENTRAL,CHEUNG WANG "
+        "rt2": ["60X","W","B"],
+        "rt3": ["66C","W","B"],
+        "rt4": ["","W","B"],
+        "rt5": ["","W","B"],
+        "rt6": ["","W","B"],
+        "rt7": ["","W","B"],
+        "rt8": ["","W","B"],
+        "rt9": ["","W","B"],
+        "rt10": ["","W","B"],
+        "rt11": ["","W","B"],
+        "rt12": ["","W","B"]
     },
 
 
