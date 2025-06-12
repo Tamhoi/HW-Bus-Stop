@@ -89,7 +89,7 @@
         "engvia1" : "VIA: HOI O, CENTRAL, CHEUNG WANG  "
     },
     {
-        "stopnum" : "LCC-01",
+        "stopnum" : "LCCBT-01",
         "stopnamechi" : "荔枝仔巴士總站",
         "stopnameeng" : "LAI CHI CHAI BUS TERMINAL",
         "stoptype" : 0,
@@ -100,7 +100,7 @@
         "engvia1" : "VIA:  CENTRAL EAST"
     },
     {
-        "stopnum" : "LCC-02",
+        "stopnum" : "LCCBT-02",
         "stopnamechi" : "荔枝仔巴士總站",
         "stopnameeng" : "LAI CHI CHAI BUS TERMINAL",
         "stoptype" : 0,
