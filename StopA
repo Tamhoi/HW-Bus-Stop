@@ -77,7 +77,39 @@
         "chivia1" : "經: 馬 尚 鄉",
         "engvia1" : "VIA:MA SHEUNG HEUNG"
     },
-
+    {
+        "stopnum" : "HLES-02A",
+        "stopnamechi" : "凱琳東站",
+        "stopnameeng" : "HOI LAM EAST STATION",
+        "stoptype" : 0,
+        "rt1": ["60","W","B"],
+        "chidest1" : "渡船角碼頭",
+        "engdest1" : "FERRY POINT PIER",
+        "chivia1" : "經: 海澳, 中環, 翔宏",
+        "engvia1" : "VIA: HOI O, CENTRAL, CHEUNG WANG  "
+    },
+    {
+        "stopnum" : "LCC-01",
+        "stopnamechi" : "荔枝仔巴士總站",
+        "stopnameeng" : "LAI CHI CHAI BUS TERMINAL",
+        "stoptype" : 0,
+        "rt1": ["63","W","B"],
+        "chidest1" : "中環碼頭",
+        "engdest1" : "CENTRAL FERRY (CIFT)",
+        "chivia1" : "經: 中環東",
+        "engvia1" : "VIA:  CENTRAL EAST"
+    },
+    {
+        "stopnum" : "LCC-02",
+        "stopnamechi" : "荔枝仔巴士總站",
+        "stopnameeng" : "LAI CHI CHAI BUS TERMINAL",
+        "stoptype" : 0,
+        "rt1": ["65A","W","B"],
+        "chidest1" : "凱琳東站",
+        "engdest1" : "HOI LAM EAST STATION",
+        "chivia1" : "直 達 市 中 心",
+        "engvia1" : "DIRECT TO CITY CENTRAL"
+    },
     {
         "stopnum" : "TYW-01",
         "stopnamechi" : "土窯灣總站-1",
