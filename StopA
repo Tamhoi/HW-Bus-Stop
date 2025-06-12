@@ -250,7 +250,7 @@
         "stopnum" : "OTBT-03",
         "stopnamechi" : "舊城區巴士總站",
         "stopnameeng" : "OLD TOWN BUS TERMINAL",
-        "stoptype" : 0
+        "stoptype" : 0,
         "rt1": ["63","W","B"],
         "chidest1" : "中環碼頭",
         "engdest1" : "CENTRAL FERRY (CIFT)",
@@ -258,15 +258,28 @@
         "engvia1" : "VIA:  CENTRAL EAST"
     },
     {
+        "stopnum" : "OTBT-04A",
+        "stopnamechi" : "舊城區巴士總站",
+        "stopnameeng" : "OLD TOWN BUS TERMINAL",
+        "stoptype" : 4,
+        "rt1": ["66P","W","B"],
+        "rt2": ["落客站","W","B"]
+    },
+    {
         "stopnum" : "OTBT-04B",
         "stopnamechi" : "舊城區巴士總站",
         "stopnameeng" : "OLD TOWN BUS TERMINAL",
-        "stoptype" : 0
-        "rt1": ["63","W","B"],
-        "chidest1" : "中環碼頭",
-        "engdest1" : "CENTRAL FERRY (CIFT)",
-        "chivia1" : "經: 中環東",
-        "engvia1" : "VIA:  CENTRAL EAST"
+        "stoptype" : 0,
+        "rt1": ["66B","W","B"],
+        "chidest1" : "凱琳東站",
+        "engdest1" : "HOI LAM EAST STATION",
+        "chivia1" : "此路線只會在繁忙時間服務",
+        "engvia1" : "OPERATE PEAK TIME ONLY ",
+        "rt2": ["66C","W","B"],
+        "chidest2" : "市中心循環",
+        "engdest2" : "CITY CENTRAL CIRCULAR ROUTE",
+        "chivia2" : "土窯灣>舊城區>凱琳>聖瑪利醫院>北都>土窯灣",
+        "engvia2" : "TOU YIU WAN>OLD TOWN>HOI LAM>ST MARY HOSPITAL>LE METRO DU NORD>TOU YIU WAN"
     },
 
 
@@ -282,14 +295,7 @@
         "chivia1" : "經: 日出閣,海逸灣",
         "engvia1" : "VIA:  SUNRISE VILLA,HOI YAT BAY"
     },
-    {
-        "stopnum" : "SP-03",
-        "stopnamechi" : "日落碼頭總站-3",
-        "stopnameeng" : "SUNSET PIER BUS TERMINUS-2",
-        "stoptype" : 4,
-        "rt1": ["71","W","B"],
-        "rt2": ["N71","W","B"]
-    },
+
 
     {
         "stopnum" : "SP-04",
