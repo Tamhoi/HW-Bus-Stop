@@ -269,7 +269,7 @@
         "stopnum" : "OTBT-04B",
         "stopnamechi" : "舊城區巴士總站",
         "stopnameeng" : "OLD TOWN BUS TERMINAL",
-        "stoptype" : 0,
+        "stoptype" : 1,
         "rt1": ["66B","W","B"],
         "chidest1" : "凱琳東站",
         "engdest1" : "HOI LAM EAST STATION",
