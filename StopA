@@ -45,6 +45,40 @@
         "engvia1" : "VIA: MAN WAN ESTATE"
     },
     {
+        "stopnum" : "HLES-01A",
+        "stopnamechi" : "凱琳東站",
+        "stopnameeng" : "HOI LAM EAST STATION",
+        "stoptype" : 0,
+        "rt1": ["65A","W","B"],
+        "chidest1" : "荔枝仔",
+        "engdest1" : "LAI CHI CHAI",
+        "chivia1" : "直 達 荔 枝 仔",
+        "engvia1" : "DIRECT TO LAI CHI CHAI "
+    },
+    {
+        "stopnum" : "HLES-01B",
+        "stopnamechi" : "凱琳東站",
+        "stopnameeng" : "HOI LAM EAST STATION",
+        "stoptype" : 0,
+        "rt1": ["66B","W","B"],
+        "chidest1" : "⼟窯灣",
+        "engdest1" : "TOU YIU WAN",
+        "chivia1" : "此路線只會在繁忙時間服務",
+        "engvia1" : "OPERATE PEAK TIME ONLY "
+    },
+    {
+        "stopnum" : "HLES-01C",
+        "stopnamechi" : "凱琳東站",
+        "stopnameeng" : "HOI LAM EAST STATION",
+        "stoptype" : 0,
+        "rt1": ["66D","W","B"],
+        "chidest1" : "⽟明苑",
+        "engdest1" : "TOU YIU WAN",
+        "chivia1" : "經: 馬 尚 鄉",
+        "engvia1" : "VIA:MA SHEUNG HEUNG"
+    },
+
+    {
         "stopnum" : "TYW-01",
         "stopnamechi" : "土窯灣總站-1",
         "stopnameeng" : "TOU YIU WAN BUS TERMINUS-1",
