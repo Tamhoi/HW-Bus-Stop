@@ -111,6 +111,61 @@
         "engvia1" : "DIRECT TO CITY CENTRAL"
     },
     {
+        "stopnum" : "NCBT-01",
+        "stopnamechi" : "北岸總站",
+        "stopnameeng" : "NORTH COAST TERMINUS",
+        "stoptype" : 0,
+        "rt1": ["65B","W","B"],
+        "chidest1" : "舊城區",
+        "engdest1" : "OLD TOWN",
+        "chivia1" : "經: 理 ⼯ ⼤ 學, 雅 琳",
+        "engvia1" : "VIA: HS POLY U, NGA LAM "
+    },
+    {
+        "stopnum" : "NCBT-02",
+        "stopnamechi" : "北岸總站",
+        "stopnameeng" : "NORTH COAST TERMINUS",
+        "stoptype" : 0,
+        "rt1": ["65C","W","B"],
+        "chidest1" : "置 富 上 弦 城",
+        "engdest1" : "FORTUNE LUNA CITY",
+        "chivia1" : "經: 理 ⼯ ⼤ 學",
+        "engvia1" : "VIA: HS POLY U"
+    },
+    {
+        "stopnum" : "NCBT-03",
+        "stopnamechi" : "北岸總站",
+        "stopnameeng" : "NORTH COAST TERMINUS",
+        "stoptype" : 0,
+        "rt1": ["66A","W","B"],
+        "chidest1" : "北 都",
+        "engdest1" : "LE METRO DU NORD ",
+        "chivia1" : "",
+        "engvia1" : ""
+    },
+    {
+        "stopnum" : "NCBT-04",
+        "stopnamechi" : "北岸總站",
+        "stopnameeng" : "NORTH COAST TERMINUS",
+        "stoptype" : 0,
+        "rt1": ["66E","W","B"],
+        "chidest1" : "⽟ 明 苑",
+        "engdest1" : "YUK MING COURT",
+        "chivia1" : "經:舊 城 區",
+        "engvia1" : "VIA:OLD TOWN"
+    },
+    {
+        "stopnum" : "NCBT-05",
+        "stopnamechi" : "北岸總站",
+        "stopnameeng" : "NORTH COAST TERMINUS",
+        "stoptype" : 0,
+        "rt1": ["63X","W","B"],
+        "chidest1" : "⻄ 港 城",
+        "engdest1" : "WESTERN MARKET",
+        "chivia1" : "直 達 中 環",
+        "engvia1" : "DIRECT TO CENTRAL"
+    },
+    {
         "stopnum" : "TYW-01",
         "stopnamechi" : "土窯灣總站-1",
         "stopnameeng" : "TOU YIU WAN BUS TERMINUS-1",
