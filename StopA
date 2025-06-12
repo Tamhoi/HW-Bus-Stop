@@ -166,6 +166,29 @@
         "engvia1" : "DIRECT TO CENTRAL"
     },
     {
+        "stopnum" : "YMC-01B",
+        "stopnamechi" : "⽟明苑總站",
+        "stopnameeng" : "YUK MING COURT TERMINUS",
+        "stoptype" : 0,
+        "rt1": ["66D","W","B"],
+        "chidest1" : "北 岸",
+        "engdest1" : "NORTH COAST",
+        "chivia1" : "經:舊 城 區, 雅 琳",
+        "engvia1" : "VIA:OLD TOWN, NGA LAM"
+    },
+    {
+        "stopnum" : "YMC-02",
+        "stopnamechi" : "⽟明苑總站",
+        "stopnameeng" : "YUK MING COURT TERMINUS",
+        "stoptype" : 0,
+        "rt1": ["66E","W","B"],
+        "chidest1" : "凱 琳 東 站",
+        "engdest1" : "HOI LAM EAST STATION",
+        "chivia1" : "",
+        "engvia1" : ""
+    },
+
+    {
         "stopnum" : "TYW-01",
         "stopnamechi" : "土窯灣總站-1",
         "stopnameeng" : "TOU YIU WAN BUS TERMINUS-1",
