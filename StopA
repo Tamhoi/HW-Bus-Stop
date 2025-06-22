@@ -45,6 +45,17 @@
         "engvia1" : "VIA: MAN WAN ESTATE"
     },
     {
+        "stopnum" : "HRS-01",
+        "stopnamechi" : "哈理山",
+        "stopnameeng" : "HARRISON HILL",
+        "stoptype" : 0,
+        "rt1": ["65","W","B"],
+        "chidest1" : "都薈",
+        "engdest1" : "THE METRO",
+        "chivia1" : "循環線",
+        "engvia1" : "CIRCULAR"
+    },
+    {
         "stopnum" : "HLES-01A",
         "stopnamechi" : "凱琳東站",
         "stopnameeng" : "HOI LAM EAST STATION",
