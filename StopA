@@ -50,9 +50,9 @@
         "stopnameeng" : "HARRISON HILL",
         "stoptype" : 0,
         "rt1": ["65","W","B"],
-        "chidest1" : "都薈",
+        "chidest1" : "都 薈",
         "engdest1" : "THE METRO",
-        "chivia1" : "循環線",
+        "chivia1" : "循 環 線",
         "engvia1" : "CIRCULAR"
     },
     {
@@ -127,7 +127,7 @@
         "stopnameeng" : "NORTH COAST TERMINUS",
         "stoptype" : 0,
         "rt1": ["65B","W","B"],
-        "chidest1" : "舊城區",
+        "chidest1" : "舊 城 區",
         "engdest1" : "OLD TOWN",
         "chivia1" : "經: 理 ⼯ ⼤ 學, 雅 琳",
         "engvia1" : "VIA: HS POLY U, NGA LAM "
@@ -310,6 +310,79 @@
         "engdest1" : "NORTH COAST TERMINUS",
         "chivia1" : "直 達 北 岸",
         "engvia1" : "DIRECT TO NORTH COAST"
+    },
+    {
+        "stopnum" : "LCTBT-01",
+        "stopnamechi" : "荔枝仔隧道轉乘站",
+        "stopnameeng" : "LAI CHI CHAI TUNNEL BBI",
+        "stoptype" : 0,
+        "rt1": ["65B","W","B"],
+        "chidest1" : "北 岸",
+        "engdest1" : "NORTH COAST TERMINUS",
+        "chivia1" : "經: 理 ⼯ ⼤ 學",
+        "engvia1" : "VIA: HS POLY U"
+    },
+    {
+        "stopnum" : "LCTBT-02",
+        "stopnamechi" : "荔枝仔隧道轉乘站",
+        "stopnameeng" : "LAI CHI CHAI TUNNEL BBI",
+        "stoptype" : 0,
+        "rt1": ["65P","W","B"],
+        "chidest1" : "理⼯⼤學（東翼) ",
+        "engdest1" : "HS POLY U (East Exit) ",
+        "chivia1" : "此路線只會在繁忙時間服務",
+        "engvia1" : "OPERATE PEAK TIME ONLY "
+    },
+    {
+        "stopnum" : "LCTBT-05",
+        "stopnamechi" : "荔枝仔隧道轉乘站",
+        "stopnameeng" : "LAI CHI CHAI TUNNEL BBI",
+        "stoptype" : 0,
+        "rt1": ["66","W","B"],
+        "chidest1" : "都 薈",
+        "engdest1" : "THE METRO",
+        "chivia1" : "循 環 線",
+        "engvia1" : "CIRCULAR"
+    },
+    {
+        "stopnum" : "LCTBT-06",
+        "stopnamechi" : "荔枝仔隧道轉乘站",
+        "stopnameeng" : "LAI CHI CHAI TUNNEL BBI",
+        "stoptype" : 0,
+        "rt1": ["66E","W","B"],
+        "chidest1" : "⽟ 明 苑",
+        "engdest1" : "YUK MING COURT",
+        "chivia1" : "",
+        "engvia1" : ""
+    },
+    {
+        "stopnum" : "NLE-01",
+        "stopnamechi" : "雅琳邨",
+        "stopnameeng" : "NGA LAM ESTATE",
+        "stoptype" : 0,
+        "rt1": ["66","W","B"],
+        "chidest1" : "都 薈",
+        "engdest1" : "THE METRO",
+        "chivia1" : "循 環 線",
+        "engvia1" : "CIRCULAR"
+    },
+    {
+        "stopnum" : "NLE-03",
+        "stopnamechi" : "雅琳邨",
+        "stopnameeng" : "NGA LAM ESTATE",
+        "stoptype" : 2,
+        "rt1": ["65B","W","B"],
+        "rt2": ["65P","W","B"],
+        "rt3": ["66E","W","B"],
+        "rt4": ["66P","W","B"],
+        "rt5": ["","W","B"],
+        "rt6": ["","W","B"],
+        "rt7": ["","W","B"],
+        "rt8": ["","W","B"],
+        "rt9": ["","W","B"],
+        "rt10": ["","W","B"],
+        "rt11": ["","W","B"],
+        "rt12": ["","W","B"]
     },
     {
         "stopnum" : "FLC-01",
