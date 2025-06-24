@@ -105,8 +105,8 @@
         "stopnameeng" : "LAI CHI CHAI BUS TERMINAL",
         "stoptype" : 0,
         "rt1": ["63","W","B"],
-        "chidest1" : "中環碼頭",
-        "engdest1" : "CENTRAL FERRY (CIFT)",
+        "chidest1" : "中環(會展新翼)",
+        "engdest1" : "HANWICK CONVENTION AND EXPO NEW WING",
         "chivia1" : "經: 中環東",
         "engvia1" : "VIA:  CENTRAL EAST"
     },
