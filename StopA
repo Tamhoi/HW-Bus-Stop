@@ -198,7 +198,39 @@
         "chivia1" : "",
         "engvia1" : ""
     },
-
+    {
+        "stopnum" : "SMH-01",
+        "stopnamechi" : "聖瑪利醫院-1",
+        "stopnameeng" : "ST MARY HOSPITAL-1",
+        "stoptype" : 0,
+        "rt1": ["66D","W","B"],
+        "chidest1" : "⽟明苑",
+        "engdest1" : "TOU YIU WAN",
+        "chivia1" : "經: 馬 尚 鄉",
+        "engvia1" : "VIA:MA SHEUNG HEUNG"
+    },
+    {
+        "stopnum" : "SMH-02",
+        "stopnamechi" : "聖瑪利醫院-2",
+        "stopnameeng" : "ST MARY HOSPITAL-2",
+        "stoptype" : 0,
+        "rt1": ["66C","W","B"],
+        "chidest1" : "市中心循環",
+        "engdest1" : "CITY CENTRAL CIRCULAR ROUTE",
+        "chivia1" : "聖瑪利醫院>北都>土窯灣",
+        "engvia1" : "ST MARY HOSPITAL>LE METRO DU NORD>TOU YIU WAN"
+    },
+    {
+        "stopnum" : "SMH-03",
+        "stopnamechi" : "聖瑪利醫院-3",
+        "stopnameeng" : "ST MARY HOSPITAL-3",
+        "stoptype" : 0,
+        "rt1": ["65X","W","B"],
+        "chidest1" : "置富上弦城",
+        "engdest1" : "FORTUNE LUNA CITY",
+        "chivia1" : ",
+        "engvia1" : ""
+    },
     {
         "stopnum" : "TYW-01",
         "stopnamechi" : "土窯灣總站-1",
