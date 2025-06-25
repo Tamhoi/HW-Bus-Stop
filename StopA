@@ -24,14 +24,99 @@
     },
     {
         "stopnum" : "FPP-01",
-        "stopnamechi" : "恆域交通博物館",
-        "stopnameeng" : "HANWICK TRANSPORT MUSEUM",
+        "stopnamechi" : "渡船角碼頭",
+        "stopnameeng" : "FERRY POINT PIER",
         "stoptype" : 0,
         "rt1": ["53H","W","B"],
         "chidest1" : "恆域交通博物館",
         "engdest1" : "HANWICK TRANSPORT MUSEUM",
         "chivia1" : "交通博物館>渡船角碼頭>渡船角廣場>恆域勞鐵站>交通博物館",
         "engvia1" : "HANWICK TRANSPORT MUSEUM>FREEY POINT PIER>FREEY POINT PLAZA>TRR HAWICK STATION>HANWICK TRANSPORT MUSEUM"
+    },
+    {
+        "stopnum" : "FPP-02",
+        "stopnamechi" : "渡船角碼頭",
+        "stopnameeng" : "FERRY POINT PIER",
+        "stoptype" : 0,
+        "rt1": ["60","W","B"],
+        "chidest1" : "舊 城 區",
+        "engdest1" : "OLD TOWN",
+        "chivia1" : "經: 中環, 海澳, 凱琳",
+        "engvia1" : "VIA: CENTRAL,HOI O, HOI LAM"
+    },
+    {
+        "stopnum" : "HWS-01",
+        "stopnamechi" : "恆域站",
+        "stopnameeng" : "HANWICK STATION",
+        "stoptype" : 0,
+        "rt1": ["60X","W","B"],
+        "chidest1" : "舊 城 區",
+        "engdest1" : "OLD TOWN",
+        "chivia1" : "經: 恆海隧道, 土窯灣(特快)",
+        "engvia1" : "VIA: HUDSON SHORE TUNNEL, TOU YIU WAN(EXPRESS)"
+    },
+    {
+        "stopnum" : "WHBT-01",
+        "stopnamechi" : "西城點",
+        "stopnameeng" : "WEST HUB",
+        "stoptype" : 0,
+        "rt1": ["60A","W","B"],
+        "chidest1" : "弘 光 邨",
+        "engdest1" : "WAN KWONG ESTATE",
+        "chivia1" : "直 達 凱 琳 西",
+        "engvia1" : "DIRECT TO HOI LAM WEST"
+    },
+    {
+        "stopnum" : "IP2-01",
+        "stopnamechi" : "科創城二期",
+        "stopnameeng" : "INNOCITY PHASE II",
+        "stoptype" : 0,
+        "rt1": ["63P","W","B"],
+        "chidest1" : "理 工 大 學",
+        "engdest1" : "HUDSON SHORE POLYTECHNIC UNIVERSITY",
+        "chivia1" : "此路線只會在繁忙時間服務",
+        "engvia1" : "OPERATE PEAK TIME ONLY"
+    },
+    {
+        "stopnum" : "CHR-01",
+        "stopnamechi" : "創興路",
+        "stopnameeng" : "CHONG HING ROAD",
+        "stoptype" : 0,
+        "rt1": ["63P","W","B"],
+        "chidest1" : "理 工 大 學",
+        "engdest1" : "HUDSON SHORE POLYTECHNIC UNIVERSITY",
+        "chivia1" : "此路線只會在繁忙時間服務",
+        "engvia1" : "OPERATE PEAK TIME ONLY"
+    },
+    {
+        "stopnum" : "CHR-02",
+        "stopnamechi" : "創興路",
+        "stopnameeng" : "CHONG HING ROAD",
+        "stoptype" : 4,
+        "rt1": ["63P","W","B"],
+        "rt2": ["落客站","W","B"]
+    },
+    {
+        "stopnum" : "HWCEC-01",
+        "stopnamechi" : "中環(會展新翼)",
+        "stopnameeng" : "HANWICK CONVENTION AND EXPO NEW WING",
+        "stoptype" : 0,
+        "rt1": ["63","W","B"],
+        "chidest1" : "荔 枝 仔",
+        "engdest1" : "LAI CHI CHAI",
+        "chivia1" : "經: 荔枝仔道",
+        "engvia1" : "VIA: LAI CHI CHAI ROAD"
+    },
+    {
+        "stopnum" : "WMBT-01",
+        "stopnamechi" : "西港城",
+        "stopnameeng" : "WESTERN MARKET",
+        "stoptype" : 0,
+        "rt2": ["63X","W","B"],
+        "chidest2" : "北 岸",
+        "engdest2" : "NORTH COAST TERMINUS",
+        "chivia2" : "直 達 北 岸",
+        "engvia2" : "DIRECT TO NORTH COAST"
     },
     {
         "stopnum" : "CP-01",
@@ -277,8 +362,8 @@
         "rt2": ["60X","W","B"],
         "chidest2" : "恆 域 站",
         "engdest2" : "HANWICK STATION",
-        "chivia2" : "經: 恆海隧道, 翔宏",
-        "engvia2" : "VIA: HUDSON SHORE TUNNEL, CHEUNG WANG"
+        "chivia2" : "直 達 恆 域 中 心",
+        "engvia2" : "DIRECT TO HANWICK CITY CENTER"
     },
     {
         "stopnum" : "HST-02",
@@ -715,8 +800,8 @@
         "rt1": ["60X","W","B"],
         "chidest1" : "恆 域 站",
         "engdest1" : "HANWICK STATION",
-        "chivia1" : "經: 恆海隧道, 翔宏",
-        "engvia1" : "VIA: HUDSON SHORE TUNNEL, CHEUNG WANG"
+        "chivia1" : "直 達 恆 域 中 心",
+        "engvia1" : "DIRECT TO HANWICK CITY CENTER"
     },
     {
         "stopnum" : "TYW-02",
