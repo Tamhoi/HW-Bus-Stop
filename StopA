@@ -3372,6 +3372,24 @@
         "rt12": ["","W","B"]
     },
     {
+        "stopnum" : "HSR-32",
+        "stopnamechi" : "泰彩樓",
+        "stopnameeng" : "TAI CHOI HOUSE",
+        "stoptype" : 2,
+        "rt1": ["60","W","B"],
+        "rt2": ["","W","B"],
+        "rt3": ["","W","B"],
+        "rt4": ["","W","B"],
+        "rt5": ["","W","B"],
+        "rt6": ["","W","B"],
+        "rt7": ["","W","B"],
+        "rt8": ["","W","B"],
+        "rt9": ["","W","B"],
+        "rt10": ["","W","B"],
+        "rt11": ["","W","B"],
+        "rt12": ["","W","B"]
+    },
+    {
         "stopnum" : "HLN-01",
         "stopnamechi" : "欣琳邨",
         "stopnameeng" : "YAN LAM ESTATE",
