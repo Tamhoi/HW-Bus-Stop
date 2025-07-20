@@ -239,6 +239,17 @@
         "engvia1" : "VIA: NGA LAM "
     },
     {
+        "stopnum" : "DONKI-03",
+        "stopnamechi" : "弘光商圈",
+        "stopnameeng" : "WEN KWONG SHOPPING CENTRES",
+        "stoptype" : 0,
+        "rt1": ["60A","W","B"],
+        "chidest1" : "西 城 點",
+        "engdest1" : "WEST HUB",
+        "chivia1" : "直 達 翔 宏",
+        "engvia1" : "DIRECT TO CHEUNG WAN"
+    },
+    {
         "stopnum" : "HLES-01A",
         "stopnamechi" : "凱琳東站",
         "stopnameeng" : "HOI LAM EAST STATION",
