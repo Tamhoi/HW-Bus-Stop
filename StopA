@@ -277,8 +277,8 @@
         "stopnameeng" : "HOI LAM EAST STATION",
         "stoptype" : 0,
         "rt1": ["66D","W","B"],
-        "chidest1" : "⽟明苑",
-        "engdest1" : "TOU YIU WAN",
+        "chidest1" : "⽟ 明 苑",
+        "engdest1" : "YUK MING COURT",
         "chivia1" : "經: 馬 尚 鄉",
         "engvia1" : "VIA:MA SHEUNG HEUNG"
     },
