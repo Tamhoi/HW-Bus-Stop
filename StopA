@@ -1538,6 +1538,24 @@
         "rt12": ["","W","B"]
     },
     {
+        "stopnum" : "PH-00",
+        "stopnamechi" : "東城海灣酒店南閘",
+        "stopnameeng" : "EASTERN BAY HOTEL SOUTH EXIT",
+        "stoptype" : 2,
+        "rt1": ["63","W","B"],
+        "rt2": ["63X","W","B"],
+        "rt3": ["65C","W","B"],
+        "rt4": ["","W","B"],
+        "rt5": ["","W","B"],
+        "rt6": ["","W","B"],
+        "rt7": ["","W","B"],
+        "rt8": ["","W","B"],
+        "rt9": ["","W","B"],
+        "rt10": ["","W","B"],
+        "rt11": ["","W","B"],
+        "rt12": ["","W","B"]
+    },
+    {
         "stopnum" : "PH-01",
         "stopnamechi" : "東城海灣酒店南閘",
         "stopnameeng" : "EASTERN BAY HOTEL SOUTH EXIT",
