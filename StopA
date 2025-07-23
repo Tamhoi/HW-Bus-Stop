@@ -427,7 +427,7 @@
     },
     {
         "stopnum" : "HST-01",
-        "stopnamechi" : "恆域隧道轉乘站",
+        "stopnamechi" : "恆海隧道轉乘站",
         "stopnameeng" : "HUDSON SHORE TUNNEL BBI",
         "stoptype" : 1,
         "rt1": ["60A","W","B"],
@@ -443,7 +443,7 @@
     },
     {
         "stopnum" : "HST-02",
-        "stopnamechi" : "恆域隧道轉乘站",
+        "stopnamechi" : "恆海隧道轉乘站",
         "stopnameeng" : "HUDSON SHORE TUNNEL BBI",
         "stoptype" : 1,
         "rt1": ["63","W","B"],
@@ -459,7 +459,7 @@
     },
     {
         "stopnum" : "HST-03",
-        "stopnamechi" : "恆域隧道轉乘站",
+        "stopnamechi" : "恆海隧道轉乘站",
         "stopnameeng" : "HUDSON SHORE TUNNEL BBI",
         "stoptype" : 0,
         "rt1": ["63P","W","B"],
@@ -470,7 +470,7 @@
     },
     {
         "stopnum" : "HST-04",
-        "stopnamechi" : "恆域隧道轉乘站",
+        "stopnamechi" : "恆海隧道轉乘站",
         "stopnameeng" : "HUDSON SHORE TUNNEL BBI",
         "stoptype" : 1,
         "rt1": ["60A","W","B"],
@@ -486,7 +486,7 @@
     },
     {
         "stopnum" : "HST-05",
-        "stopnamechi" : "恆域隧道轉乘站",
+        "stopnamechi" : "恆海隧道轉乘站",
         "stopnameeng" : "HUDSON SHORE TUNNEL BBI",
         "stoptype" : 1,
         "rt1": ["63","W","B"],
@@ -502,7 +502,7 @@
     },
     {
         "stopnum" : "HST-06",
-        "stopnamechi" : "恆域隧道轉乘站",
+        "stopnamechi" : "恆海隧道轉乘站",
         "stopnameeng" : "HUDSON SHORE TUNNEL BBI",
         "stoptype" : 0,
         "rt1": ["63P","W","B"],
@@ -513,7 +513,7 @@
     },
     {
         "stopnum" : "HST-07",
-        "stopnamechi" : "恆域隧道轉乘站",
+        "stopnamechi" : "恆海隧道轉乘站",
         "stopnameeng" : "HUDSON SHORE TUNNEL BBI",
         "stoptype" : 0,
         "rt1": ["65A","W","B"],
