@@ -206,6 +206,17 @@
         "engvia1" : "VIA: HS POLY U"
     },
     {
+        "stopnum" : "SYC-01",
+        "stopnamechi" : "尚弦居",
+        "stopnameeng" : "SHEUNG YIN COURT",
+        "stoptype" : 0,
+        "rt1": ["65","W","B"],
+        "chidest1" : "都 薈",
+        "engdest1" : "THE METRO",
+        "chivia1" : "循 環 線",
+        "engvia1" : "CIRCULAR"
+    },
+    {
         "stopnum" : "HRS-01",
         "stopnamechi" : "哈理山",
         "stopnameeng" : "HARRISON HILL",
@@ -385,12 +396,12 @@
         "stopnum" : "YMC-01B",
         "stopnamechi" : "⽟明苑總站",
         "stopnameeng" : "YUK MING COURT TERMINUS",
-        "stoptype" : 0,
+        "stoptype" : 1,
         "rt1": ["66D","W","B"],
-        "chidest1" : "北 岸",
-        "engdest1" : "NORTH COAST",
-        "chivia1" : "經:舊 城 區, 雅 琳",
-        "engvia1" : "VIA:OLD TOWN, NGA LAM"
+        "chidest1" : "凱 琳 東 站",
+        "engdest1" : "HOI LAM EAST STATION",
+        "chivia1" : "",
+        "engvia1" : ""
     },
     {
         "stopnum" : "YMC-02",
@@ -398,10 +409,15 @@
         "stopnameeng" : "YUK MING COURT TERMINUS",
         "stoptype" : 0,
         "rt1": ["66E","W","B"],
-        "chidest1" : "凱 琳 東 站",
-        "engdest1" : "HOI LAM EAST STATION",
-        "chivia1" : "",
-        "engvia1" : ""
+        "chidest1" : "北 岸",
+        "engdest1" : "NORTH COAST",
+        "chivia1" : "經:舊 城 區, 雅 琳",
+        "engvia1" : "VIA:OLD TOWN, NGA LAM",
+        "rt2": ["66P","W","B"],
+        "chidest2" : "舊 城 區",
+        "engdest2" : "OLD TOWN",
+        "chivia2" : "此路線只會在繁忙時間服務",
+        "engvia2" : "OPERATE PEAK TIME ONLY"
     },
     {
         "stopnum" : "SMH-01",
