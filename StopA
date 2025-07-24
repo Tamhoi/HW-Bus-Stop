@@ -371,6 +371,17 @@
         "engvia1" : "DIRECT TO CENTRAL"
     },
     {
+        "stopnum" : "NCBT-06",
+        "stopnamechi" : "北岸總站",
+        "stopnameeng" : "NORTH COAST TERMINUS",
+        "stoptype" : 0,
+        "rt1": ["","W","B"],
+        "chidest1" : "",
+        "engdest1" : "",
+        "chivia1" : "",
+        "engvia1" : ""
+    },
+    {
         "stopnum" : "YMC-01B",
         "stopnamechi" : "⽟明苑總站",
         "stopnameeng" : "YUK MING COURT TERMINUS",
