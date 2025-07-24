@@ -177,11 +177,11 @@
         "stopnamechi" : "西港城",
         "stopnameeng" : "WESTERN MARKET",
         "stoptype" : 0,
-        "rt2": ["63X","W","B"],
-        "chidest2" : "北 岸",
-        "engdest2" : "NORTH COAST TERMINUS",
-        "chivia2" : "直 達 北 岸",
-        "engvia2" : "DIRECT TO NORTH COAST"
+        "rt1": ["63X","W","B"],
+        "chidest1" : "北 岸",
+        "engdest1" : "NORTH COAST TERMINUS",
+        "chivia1" : "直 達 北 岸",
+        "engvia1" : "DIRECT TO NORTH COAST"
     },
     {
         "stopnum" : "CP-01",
