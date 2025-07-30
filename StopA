@@ -294,6 +294,22 @@
         "engvia1" : "VIA:MA SHEUNG HEUNG"
     },
     {
+        "stopnum" : "HLES-01D",
+        "stopnamechi" : "凱琳東站",
+        "stopnameeng" : "HOI LAM EAST STATION",
+        "stoptype" : 1,
+        "rt1": ["N65","B","W"],
+        "chidest1" : "通宵外環線",
+        "engdest1" : "OVERNIGHT OUTER CIRCULAR",
+        "chivia1" : "北都>弘光>荔枝仔>舊城區>凱琳東",
+        "engvia1" : "LM DU NORD>WAN KWONG>LAI CHI CHAI>OLD TOWN>HOI LAM EAST",
+        "rt2": ["N66","W","B"],
+        "chidest2" : "通宵內環線",
+        "engdest2" : "OVERNIGHT INNER CIRCULAR",
+        "chivia2" : "舊城區>荔枝仔>弘光>北都>凱琳東",
+        "engvia2" : "OLD TOWN>LAI CHI CHAI>WAN KWONG>LM DU NORD>HOI LAM EAST"
+    },
+    {
         "stopnum" : "HLES-02A",
         "stopnamechi" : "凱琳東站",
         "stopnameeng" : "HOI LAM EAST STATION",
@@ -407,7 +423,7 @@
         "stopnum" : "YMC-02",
         "stopnamechi" : "⽟明苑總站",
         "stopnameeng" : "YUK MING COURT TERMINUS",
-        "stoptype" : 0,
+        "stoptype" : 1,
         "rt1": ["66E","W","B"],
         "chidest1" : "北 岸",
         "engdest1" : "NORTH COAST",
