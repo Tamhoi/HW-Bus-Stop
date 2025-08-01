@@ -3713,8 +3713,8 @@
     },
     {
         "stopnum" : "JR-02",
-        "stopnamechi" : "北都第二座",
-        "stopnameeng" : "LE METRO DU NORD BLOCK 2",
+        "stopnamechi" : "北都第三座",
+        "stopnameeng" : "LE METRO DU NORD BLOCK 3",
         "stoptype" : 2,
         "rt1": ["65X","W","B"],
         "rt2": ["66C","W","B"],
@@ -3731,7 +3731,7 @@
     },
     {
         "stopnum" : "JR-03",
-        "stopnamechi" : "北都第二座",
+        "stopnamechi" : "北都第三座",
         "stopnameeng" : "LE METRO DU NORD BLOCK 2",
         "stoptype" : 2,
         "rt1": ["N65","W","B"],
