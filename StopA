@@ -945,6 +945,24 @@
         "engvia1" : "TOU YIU WAN>OLD TOWN>HOI LAM>ST MARY HOSPITAL>LE METRO DU NORD>TOU YIU WAN"
     },
     {
+        "stopnum" : "TYW-04",
+        "stopnamechi" : "土窯灣總站-4",
+        "stopnameeng" : "TOU YIU WAN BUS TERMINUS-4",
+        "stoptype" : 2,
+        "rt1": ["N66","W","B"],
+        "rt2": ["","W","B"],
+        "rt3": ["","W","B"],
+        "rt4": ["","W","B"],
+        "rt5": ["","W","B"],
+        "rt6": ["","W","B"],
+        "rt7": ["","W","B"],
+        "rt8": ["","W","B"],
+        "rt9": ["","W","B"],
+        "rt10": ["","W","B"],
+        "rt11": ["","W","B"],
+        "rt12": ["","W","B"]
+    },
+    {
         "stopnum" : "NL-01",
         "stopnamechi" : "窯柏樓",
         "stopnameeng" : "YIU PAK HOUSE",
