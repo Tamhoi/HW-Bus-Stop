@@ -3729,6 +3729,24 @@
         "rt11": ["","W","B"],
         "rt12": ["","W","B"]
     },
+    {
+        "stopnum" : "JR-03",
+        "stopnamechi" : "北都第二座",
+        "stopnameeng" : "LE METRO DU NORD BLOCK 2",
+        "stoptype" : 2,
+        "rt1": ["N65","W","B"],
+        "rt2": ["","W","B"],
+        "rt3": ["","W","B"],
+        "rt4": ["","W","B"],
+        "rt5": ["","W","B"],
+        "rt6": ["","W","B"],
+        "rt7": ["","W","B"],
+        "rt8": ["","W","B"],
+        "rt9": ["","W","B"],
+        "rt10": ["","W","B"],
+        "rt11": ["","W","B"],
+        "rt12": ["","W","B"]
+    },
   {
         "stopnum" : "JR-05",
         "stopnamechi" : "凱林邨",
