@@ -469,12 +469,17 @@
         "stopnum" : "NCBT-02",
         "stopnamechi" : "北岸總站",
         "stopnameeng" : "NORTH COAST TERMINUS",
-        "stoptype" : 0,
+        "stoptype" : 1,
         "rt1": ["65C","W","B"],
         "chidest1" : "置 富 上 弦 城",
         "engdest1" : "FORTUNE LUNA CITY",
         "chivia1" : "經: 理 ⼯ ⼤ 學",
-        "engvia1" : "VIA: HS POLY U"
+        "engvia1" : "VIA: HS POLY U",
+        "rt2": ["N66","W","B"],
+        "chidest2" : "通宵內環線",
+        "engdest2" : "OVERNIGHT INNER CIRCULAR",
+        "chivia2" : "舊城區>荔枝仔>弘光>北都>凱琳東",
+        "engvia2" : "OLD TOWN>LAI CHI CHAI>WAN KWONG>LM DU NORD>HOI LAM EAST"
     },
     {
         "stopnum" : "NCBT-03",
