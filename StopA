@@ -37,12 +37,17 @@
         "stopnum" : "FPP-02",
         "stopnamechi" : "渡船角碼頭",
         "stopnameeng" : "FERRY POINT PIER",
-        "stoptype" : 0,
+        "stoptype" : 1,
         "rt1": ["60","W","B"],
         "chidest1" : "舊 城 區",
         "engdest1" : "OLD TOWN",
         "chivia1" : "經: 中環, 海澳, 凱琳",
-        "engvia1" : "VIA: CENTRAL,HOI O, HOI LAM"
+        "engvia1" : "VIA: CENTRAL,HOI O, HOI LAM",
+        "rt2": ["N60","W","B"],
+        "chidest2" : "弘 光 及 弦 光",
+        "engdest2" : "WAN KWONG & YUEN KWONG",
+        "chivia2" : "通宵線",
+        "engvia2" : "OVERNIGHT BUS"
     },
     {
         "stopnum" : "HWS-01",
@@ -360,6 +365,17 @@
         "engdest1" : "ST.MARY HOSPITAL",
         "chivia1" : "",
         "engvia1" : ""
+    },
+    {
+        "stopnum" : "DONKI-05",
+        "stopnamechi" : "弘光商圈",
+        "stopnameeng" : "WEN KWONG SHOPPING CENTRES",
+        "stoptype" : 0,
+        "rt1": ["N60","W","B"],
+        "chidest1" : "渡 船 角 碼 頭",
+        "engdest1" : "FERRY POINT PIER",
+        "chivia1" : "通宵線",
+        "engvia1" : "OVERNIGHT BUS"
     },
     {
         "stopnum" : "HLES-01A",
