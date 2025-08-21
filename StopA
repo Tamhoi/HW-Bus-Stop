@@ -523,12 +523,17 @@
         "stopnum" : "NCBT-05",
         "stopnamechi" : "北岸總站",
         "stopnameeng" : "NORTH COAST TERMINUS",
-        "stoptype" : 0,
+        "stoptype" : 1,
         "rt1": ["63X","W","B"],
         "chidest1" : "⻄ 港 城",
         "engdest1" : "WESTERN MARKET",
         "chivia1" : "直 達 中 環",
-        "engvia1" : "DIRECT TO CENTRAL"
+        "engvia1" : "DIRECT TO CENTRAL",
+        "rt2": ["N63","W","B"],
+        "chidest2" : "中 環",
+        "engdest2" : "CENTRAL",
+        "chivia2" : "通 宵 中 環 循 環",
+        "engvia2" : "OVERNIGHT CENTRAL CIRCULAR"
     },
     {
         "stopnum" : "NCBT-06",
