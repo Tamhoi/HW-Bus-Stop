@@ -469,7 +469,7 @@
         "engdest1" : "TOU YIU WAN",
         "chivia1" : "此路線只會在繁忙時間服務",
         "engvia1" : "OPERATE PEAK TIME ONLY ",
-        "rt2": ["","W","B"],
+        "rt2": ["68A","W","B"],
         "chidest2" : "北薈國際展貿中心",
         "engdest2" : "NORTHERN EXPO",
         "chivia2" : "東北連接線",
