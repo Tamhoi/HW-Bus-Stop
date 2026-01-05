@@ -610,7 +610,7 @@
         "stopnum" : "YMC-03",
         "stopnamechi" : "⽟明苑總站",
         "stopnameeng" : "YUK MING COURT TERMINUS",
-        "stoptype" : 1,
+        "stoptype" : 0,
         "rt1": ["63C","W","B"],
         "chidest1" : "機 場",
         "engdest1" : "AIRPORT",
