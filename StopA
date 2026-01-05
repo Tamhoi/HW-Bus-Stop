@@ -318,6 +318,44 @@
         "rt12": ["","W","B"]
     },
     {
+        "stopnum" : "NEXPO-03",
+        "stopnamechi" : "北薈國際展貿中心",
+        "stopnameeng" : "NORTHERN EXPO",
+        "stoptype" : 0,
+        "rt1": ["68X","W","B"],
+        "chidest1" : "恆 域 站",
+        "engdest1" : "HANWICK STATION",
+        "chivia1" : "直 達 恆 域 中 心",
+        "engvia1" : "DIRECT TO HANWICK CITY CENTER"
+    },
+    {
+        "stopnum" : "NEXPO-06",
+        "stopnamechi" : "北薈國際展貿中心",
+        "stopnameeng" : "NORTHERN EXPO",
+        "stoptype" : 1,
+        "rt1": ["68B","W","B"],
+        "chidest1" : "北 岸",
+        "engdest1" : "NORTH COAST TERMINUS",
+        "chivia1" : "直 達 北 岸",
+        "engvia1" : "DIRECT TO NORTH COAST",
+        "rt2": ["68C","B","W"],
+        "chidest2" : "機場後勤區",
+        "engdest2" : "AIRPORT LOGISTICS AREA",
+        "chivia2" : "經 : 中 環",
+        "engvia2" : "VIA: CENTRAL"
+    },
+    {
+        "stopnum" : "NEXPO-07",
+        "stopnamechi" : "北薈國際展貿中心",
+        "stopnameeng" : "NORTHERN EXPO",
+        "stoptype" : 0,
+        "rt1": ["68A","W","B"],
+        "chidest1" : "凱 琳 東 站",
+        "engdest1" : "HOI LAM EAST STATION",
+        "chivia1" : "經 :舊 城 區",
+        "engvia1" : "VIA: OLD TOWN"
+    },
+    {
         "stopnum" : "CTH-01",
         "stopnamechi" : "基督教醫院",
         "stopnameeng" : "CHRISTIAN HOSPITAL",
