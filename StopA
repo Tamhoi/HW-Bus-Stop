@@ -6030,8 +6030,8 @@
     },
     {
         "stopnum" : "AIRE-12A",
-        "stopnamechi" : "路運綜合中心停車場",
-        "stopnameeng" : "RTHK INTEGRATED CENTRE CARPARK",
+        "stopnamechi" : "路運城停車場",
+        "stopnameeng" : "RTHK CITY CARPARK",
         "stoptype" : 2,
         "rt1": ["63C","W","B"],
         "rt2": ["","W","B"],
@@ -6102,8 +6102,8 @@
     },
     {
         "stopnum" : "ALR-02",
-        "stopnamechi" : "路運綜合中心南塔",
-        "stopnameeng" : "RTHK INTEGRATED CENTER SOUTH TOWER",
+        "stopnamechi" : "路運城南塔",
+        "stopnameeng" : "RTHK CITY SOUTH TOWER",
         "stoptype" : 2,
         "rt1": ["63C","W","B"],
         "rt2": ["","W","B"],
@@ -6138,8 +6138,8 @@
     },
     {
         "stopnum" : "ALR-04",
-        "stopnamechi" : "路運綜合中心北塔",
-        "stopnameeng" : "RTHK INTEGRATED CENTER NORTH TOWER",
+        "stopnamechi" : "路運城北塔",
+        "stopnameeng" : "RTHK CITY NORTH TOWER",
         "stoptype" : 2,
         "rt1": ["63C","W","B"],
         "rt2": ["","W","B"],
