@@ -6138,8 +6138,8 @@
     },
     {
         "stopnum" : "ALR-04",
-        "stopnamechi" : "路運城北塔",
-        "stopnameeng" : "RTHK CITY NORTH TOWER",
+        "stopnamechi" : "FRESH CITY",
+        "stopnameeng" : "",
         "stoptype" : 2,
         "rt1": ["63C","W","B"],
         "rt2": ["","W","B"],
