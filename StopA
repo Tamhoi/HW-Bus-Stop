@@ -190,7 +190,7 @@
     },
     {
         "stopnum" : "ALAT-01",
-        "stopnamechi" : "機場物流區總站",
+        "stopnamechi" : "機場後勤區總站",
         "stopnameeng" : "AIRPORT LOGISTIC AREA TERMINAL",
         "stoptype" : 0,
         "rt1": ["63C","W","B"],
