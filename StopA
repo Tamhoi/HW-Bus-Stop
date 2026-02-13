@@ -1,6 +1,50 @@
 {
     "StopName": [
     {
+        "stopnum" : "TEMP-1",
+        "stopnamechi" : "臨時站",
+        "stopnameeng" : "TEMPORARY STOP",
+        "stoptype" : 0,
+        "rt1": ["63S","W","B"],
+        "chidest1" : "許 願 瀑 布",
+        "engdest1" : "WISHING WATERFALL",
+        "chivia1" : "直 達 快 線",
+        "engvia1" : "SUPER RAPID"
+    },
+    {
+        "stopnum" : "TEMP-2",
+        "stopnamechi" : "臨時站",
+        "stopnameeng" : "TEMPORARY STOP",
+        "stoptype" : 0,
+        "rt1": ["65S","W","B"],
+        "chidest1" : "許 願 瀑 布",
+        "engdest1" : "WISHING WATERFALL",
+        "chivia1" : "半 直 通 快 線",
+        "engvia1" : "LIMITED STOP EXPRESS"
+    },
+    {
+        "stopnum" : "TEMP-3",
+        "stopnamechi" : "臨時站",
+        "stopnameeng" : "TEMPORARY STOP",
+        "stoptype" : 0,
+        "rt1": ["63S","W","B"],
+        "chidest1" : "直 達 中 環",
+        "engdest1" : "DIRECT TO CENTRAL",
+        "chivia1" : "直 達 快 線",
+        "engvia1" : "SUPER RAPID"
+    },
+    {
+        "stopnum" : "TEMP-4",
+        "stopnamechi" : "臨時站",
+        "stopnameeng" : "TEMPORARY STOP",
+        "stoptype" : 0,
+        "rt1": ["65S","W","B"],
+        "chidest1" : "凱 琳 東 站",
+        "engdest1" : "HOI LAM EAST STATION",
+        "chivia1" : "半 直 通 快 線",
+        "engvia1" : "LIMITED STOP EXPRESS"
+    },
+    {
         "stopnum" : "HTM-01",
         "stopnamechi" : "恆域交通博物館-1",
         "stopnameeng" : "HANWICK TRANSPORT MUSEUM-1",
