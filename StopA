@@ -3260,7 +3260,7 @@
         "stopnameeng" : "GRAND POINT",
         "stoptype" : 2,
         "rt1": ["63A","W","B"],
-        "rt2": ["65A","W","B"],
+        "rt2": ["65X","W","B"],
         "rt3": ["66C","W","B"],
         "rt4": ["66D","W","B"],
         "rt5": ["","W","B"],
