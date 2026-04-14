@@ -1263,8 +1263,8 @@
         "stopnameeng" : "FORTUNE LUNA CITY",
         "stoptype" : 0,
         "rt1": ["65X","W","B"],
-        "chidest1" : "聖瑪利醫院",
-        "engdest1" : "ST MARY HOSPITAL",
+        "chidest1" : "舊 城 區",
+        "engdest1" : "OLD TOWN",
         "chivia1" : "",
         "engvia1" : ""
     },
