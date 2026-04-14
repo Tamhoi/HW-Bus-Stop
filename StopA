@@ -4382,6 +4382,24 @@
         "rt12": ["","W","B"]
     },
   {
+        "stopnum" : "WKS-01",
+        "stopnamechi" : "明月小學",
+        "stopnameeng" : "LUNA SCHOOL",
+        "stoptype" : 2,
+        "rt1": ["65C","W","B"],
+        "rt2": ["65X","W","B"],
+        "rt3": ["","W","B"],
+        "rt4": ["","W","B"],
+        "rt5": ["","W","B"],
+        "rt6": ["","W","B"],
+        "rt7": ["","W","B"],
+        "rt8": ["","W","B"],
+        "rt9": ["","W","B"],
+        "rt10": ["","W","B"],
+        "rt11": ["","W","B"],
+        "rt12": ["","W","B"]
+    },
+  {
         "stopnum" : "CF-01",
         "stopnamechi" : "置富上弦城10座",
         "stopnameeng" : "FORTUNE LUNA CITY BLOCK 10",
