@@ -4474,7 +4474,7 @@
     {
         "stopnum" : "CF-08",
         "stopnamechi" : "李國輝中學",
-        "stopnameeng" : "SHEUNG YIN VALLEY SPORTS GROUND",
+        "stopnameeng" : "SHEUNG YUEN VALLEY SPORTS GROUND",
         "stoptype" : 2,
         "rt1": ["65X","W","B"],
         "rt2": ["","W","B"],
@@ -4492,7 +4492,7 @@
   {
         "stopnum" : "CF-09",
         "stopnamechi" : "上弦谷運動場",
-        "stopnameeng" : "SHEUNG YIN VALLEY SPORTS GROUND",
+        "stopnameeng" : "SHEUNG YUEN VALLEY SPORTS GROUND",
         "stoptype" : 2,
         "rt1": ["65X","W","B"],
         "rt2": ["","W","B"],
